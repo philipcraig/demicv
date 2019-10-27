@@ -10,20 +10,20 @@ demelzatootill@gmail.com
 
 # Skills
 
-conflict management
-competent IT skills
-confident
-hard worker
-energetic
-fast learner
-high empathy
-approachable
-patient and calm demeanour
-active listener
-takes criticism well
-positive communicator
-critical thinker
-resilient
+* conflict management
+* competent IT skills
+* confident
+* hard worker
+* energetic
+* fast learner
+* high empathy
+* approachable
+* patient and calm demeanour
+* active listener
+* takes criticism well
+* positive communicator
+* critical thinker
+* resilient
 
 # Experience
 
@@ -84,6 +84,4 @@ The John Roan School - Greater London, England
 * Applied Sciences B
 * Core Sciences C
 
-I also took part in student council and I was a prefect
-
-
+I also took part in student council and I was a prefect.
